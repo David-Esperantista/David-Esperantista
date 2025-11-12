@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hola 👋
+Yo soy ***David***
+Estudiante de la *UDG* me interesa apreder sobre las muevas tecnologias  y mi objetivo es terminar con mi carrera habiendo **logrado** *desarrollar* todas las habilades nesesarias para crear la mejores proyectos
 <!--
 **David-Esperantista/David-Esperantista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
